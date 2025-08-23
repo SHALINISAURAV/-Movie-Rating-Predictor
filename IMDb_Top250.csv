@@ -1,0 +1,219 @@
+Title,Year,Genre,Runtime,Director,IMDb_Rating,RT_Score
+The Shawshank Redemption,1994,Drama,142 min,Frank Darabont,9.3,89%
+The Godfather,1972,"Crime, Drama",175 min,Francis Ford Coppola,9.2,97%
+The Dark Knight,2008,"Action, Crime, Drama",152 min,Christopher Nolan,9.1,94%
+The Godfather Part II,1974,"Crime, Drama",202 min,Francis Ford Coppola,9.0,96%
+12 Angry Men,1957,"Crime, Drama",96 min,Sidney Lumet,9.0,100%
+Schindler's List,1993,"Biography, Drama, History",195 min,Steven Spielberg,9.0,98%
+The Lord of the Rings: The Return of the King,2003,"Adventure, Drama, Fantasy",201 min,Peter Jackson,9.0,94%
+Pulp Fiction,1994,"Crime, Drama",154 min,Quentin Tarantino,8.8,92%
+The Lord of the Rings: The Fellowship of the Ring,2001,"Adventure, Drama, Fantasy",178 min,Peter Jackson,8.9,92%
+"The Good, the Bad and the Ugly",1966,"Adventure, Drama, Western",178 min,Sergio Leone,8.8,97%
+Forrest Gump,1994,"Drama, Romance",142 min,Robert Zemeckis,8.8,75%
+Fight Club,1999,"Crime, Drama, Thriller",139 min,David Fincher,8.8,81%
+Inception,2010,"Action, Adventure, Sci-Fi",148 min,Christopher Nolan,8.8,87%
+The Lord of the Rings: The Two Towers,2002,"Adventure, Drama, Fantasy",179 min,Peter Jackson,8.8,95%
+Star Wars: Episode V - The Empire Strikes Back,1980,"Action, Adventure, Fantasy",124 min,Irvin Kershner,8.7,93%
+The Matrix,1999,"Action, Sci-Fi",136 min,"Lana Wachowski, Lilly Wachowski",8.7,83%
+Goodfellas,1990,"Biography, Crime, Drama",145 min,Martin Scorsese,8.7,94%
+One Flew Over the Cuckoo's Nest,1975,Drama,133 min,Milos Forman,8.7,93%
+Se7en,1995,"Crime, Drama, Mystery",127 min,David Fincher,8.6,84%
+Seven Samurai,1954,"Action, Drama",207 min,Akira Kurosawa,8.6,100%
+It's a Wonderful Life,1946,"Drama, Family, Fantasy",130 min,Frank Capra,8.6,94%
+The Silence of the Lambs,1991,"Crime, Drama, Horror",118 min,Jonathan Demme,8.6,95%
+Saving Private Ryan,1998,"Drama, War",169 min,Steven Spielberg,8.6,94%
+City of God,2002,"Crime, Drama",130 min,"Fernando Meirelles, Kátia Lund",8.6,91%
+Life Is Beautiful,1997,"Comedy, Drama, Romance",116 min,Roberto Benigni,8.6,81%
+The Green Mile,1999,"Crime, Drama, Fantasy",189 min,Frank Darabont,8.6,79%
+Interstellar,2014,"Adventure, Drama, Sci-Fi",169 min,Christopher Nolan,8.7,73%
+Terminator 2: Judgment Day,1991,"Action, Adventure, Sci-Fi",137 min,James Cameron,8.6,91%
+Back to the Future,1985,"Adventure, Comedy, Sci-Fi",116 min,Robert Zemeckis,8.5,93%
+Spirited Away,2001,"Animation, Adventure, Family",124 min,Hayao Miyazaki,8.6,96%
+Psycho,1960,"Drama, Horror, Mystery",109 min,Alfred Hitchcock,8.5,97%
+Parasite,2019,"Drama, Thriller",132 min,Bong Joon Ho,8.5,99%
+Léon: The Professional,1994,"Action, Crime, Drama",110 min,Luc Besson,8.5,75%
+The Lion King,1994,"Animation, Adventure, Drama",88 min,"Roger Allers, Rob Minkoff",8.5,93%
+Gladiator,2000,"Action, Adventure, Drama",155 min,Ridley Scott,8.5,80%
+American History X,1998,"Crime, Drama",119 min,Tony Kaye,8.5,84%
+The Usual Suspects,1995,"Crime, Drama, Mystery",106 min,Bryan Singer,8.5,87%
+The Departed,2006,"Crime, Drama, Thriller",151 min,Martin Scorsese,8.5,91%
+Whiplash,2014,"Drama, Music",106 min,Damien Chazelle,8.5,94%
+The Prestige,2006,"Drama, Mystery, Sci-Fi",130 min,Christopher Nolan,8.5,77%
+Casablanca,1942,"Drama, Romance, War",102 min,Michael Curtiz,8.5,99%
+Harakiri,1962,"Drama, Mystery",133 min,Masaki Kobayashi,8.6,100%
+The Intouchables,2011,"Comedy, Drama",112 min,"Olivier Nakache, Éric Toledano",8.5,75%
+Modern Times,1936,"Comedy, Drama, Romance",87 min,Charles Chaplin,8.5,98%
+Once Upon a Time in the West,1968,"Drama, Western",166 min,Sergio Leone,8.5,96%
+Rear Window,1954,"Drama, Mystery, Thriller",112 min,Alfred Hitchcock,8.5,99%
+Cinema Paradiso,1988,"Drama, Romance",174 min,Giuseppe Tornatore,8.5,91%
+Alien,1979,"Horror, Sci-Fi",117 min,Ridley Scott,8.5,93%
+Apocalypse Now,1979,"Drama, Mystery, War",147 min,Francis Ford Coppola,8.4,90%
+Memento,2000,"Drama, Mystery, Thriller",113 min,Christopher Nolan,8.4,94%
+Raiders of the Lost Ark,1981,"Action, Adventure",115 min,Steven Spielberg,8.4,94%
+The Great Dictator,1940,"Comedy, Drama, War",125 min,Charles Chaplin,8.4,92%
+Django Unchained,2012,"Drama, Western",165 min,Quentin Tarantino,8.5,87%
+WALL·E,2008,"Animation, Adventure, Family",98 min,Andrew Stanton,8.4,95%
+The Lives of Others,2006,"Drama, Mystery, Thriller",137 min,Florian Henckel von Donnersmarck,8.4,92%
+Sunset Boulevard,1950,"Drama, Film-Noir",110 min,Billy Wilder,8.4,98%
+Paths of Glory,1957,"Drama, War",88 min,Stanley Kubrick,8.4,96%
+The Shining,1980,"Drama, Horror",146 min,Stanley Kubrick,8.4,83%
+Avengers: Infinity War,2018,"Action, Adventure, Sci-Fi",149 min,"Anthony Russo, Joe Russo",8.4,85%
+Witness for the Prosecution,1957,"Crime, Drama, Mystery",116 min,Billy Wilder,8.4,100%
+Aliens,1986,"Action, Adventure, Horror",137 min,James Cameron,8.4,94%
+American Beauty,1999,Drama,122 min,Sam Mendes,8.3,87%
+Dr. Strangelove,2012,"Short, Comedy, Crime",N/A,"Keaton Gover, Jack Snelling",N/A,
+The Dark Knight Rises,2012,"Action, Crime, Drama",164 min,Christopher Nolan,8.4,87%
+Oldboy,2003,"Action, Drama, Mystery",120 min,Park Chan-wook,8.3,82%
+Joker,2019,"Crime, Drama, Thriller",122 min,Todd Phillips,8.3,68%
+Amadeus,1984,"Biography, Drama, Music",160 min,Milos Forman,8.4,90%
+Braveheart,1995,"Biography, Drama, War",178 min,Mel Gibson,8.3,76%
+Toy Story,1995,"Animation, Adventure, Comedy",81 min,John Lasseter,8.3,100%
+Coco,2017,"Animation, Adventure, Drama",105 min,"Lee Unkrich, Adrian Molina",8.4,97%
+Inglourious Basterds,2009,"Adventure, Drama, War",153 min,Quentin Tarantino,8.4,89%
+Avengers: Endgame,2019,"Action, Adventure, Sci-Fi",181 min,"Anthony Russo, Joe Russo",8.4,94%
+Good Will Hunting,1997,"Drama, Romance",126 min,Gus Van Sant,8.3,97%
+Requiem for a Dream,2000,Drama,102 min,Darren Aronofsky,8.3,78%
+The Hunt,2012,Drama,115 min,Thomas Vinterberg,8.3,92%
+3 Idiots,2009,"Comedy, Drama",170 min,Rajkumar Hirani,8.4,100%
+Eternal Sunshine of the Spotless Mind,2004,"Drama, Romance, Sci-Fi",108 min,Michel Gondry,8.3,92%
+Singin' in the Rain,1952,"Comedy, Musical, Romance",103 min,"Stanley Donen, Gene Kelly",8.3,100%
+Star Wars: Episode VI - Return of the Jedi,1983,"Action, Adventure, Fantasy",131 min,Richard Marquand,8.3,84%
+2001: A Space Odyssey,1968,"Adventure, Sci-Fi",149 min,Stanley Kubrick,8.3,90%
+Reservoir Dogs,1992,"Crime, Thriller",99 min,Quentin Tarantino,8.3,90%
+Vertigo,1958,"Mystery, Romance, Thriller",128 min,Alfred Hitchcock,8.2,93%
+Lawrence of Arabia,1962,"Adventure, Biography, Drama",227 min,David Lean,8.3,93%
+Citizen Kane,1941,"Drama, Mystery",119 min,Orson Welles,8.3,99%
+North by Northwest,1959,"Adventure, Drama, Mystery",136 min,Alfred Hitchcock,8.3,97%
+Amélie,2001,"Comedy, Romance",122 min,Jean-Pierre Jeunet,8.3,90%
+Your Name,2015,Short,22 min,Megumi Shiraishi,8.9,
+A Clockwork Orange,1971,"Crime, Sci-Fi",136 min,Stanley Kubrick,8.2,86%
+Ikiru,1952,Drama,143 min,Akira Kurosawa,8.3,98%
+Double Indemnity,1944,"Crime, Drama, Film-Noir",107 min,Billy Wilder,8.3,97%
+Full Metal Jacket,1987,"Drama, War",116 min,Stanley Kubrick,8.2,90%
+Scarface,1983,"Crime, Drama",170 min,Brian De Palma,8.3,79%
+Taxi Driver,1976,"Crime, Drama",114 min,Martin Scorsese,8.2,89%
+Snatch,2000,"Comedy, Crime",102 min,Guy Ritchie,8.2,74%
+The Kid,1921,"Comedy, Drama, Family",68 min,Charles Chaplin,8.2,100%
+Toy Story 3,2010,"Animation, Adventure, Comedy",103 min,Lee Unkrich,8.3,98%
+Indiana Jones and the Last Crusade,1989,"Action, Adventure",127 min,Steven Spielberg,8.2,84%
+1917,2019,"Action, Drama, War",119 min,Sam Mendes,8.2,88%
+Green Book,2018,"Biography, Comedy, Drama",130 min,Peter Farrelly,8.2,77%
+The Wolf of Wall Street,2013,"Biography, Comedy, Crime",180 min,Martin Scorsese,8.2,79%
+Jaws,1975,"Adventure, Horror, Thriller",124 min,Steven Spielberg,8.1,97%
+Blade Runner 2049,2017,"Action, Drama, Mystery",164 min,Denis Villeneuve,8.0,88%
+Inside Out,2015,"Animation, Adventure, Comedy",95 min,"Pete Docter, Ronnie Del Carmen",8.1,98%
+The Father,2020,"Drama, Mystery",97 min,Florian Zeller,8.2,98%
+No Country for Old Men,2007,"Crime, Drama, Thriller",122 min,"Ethan Coen, Joel Coen",8.2,93%
+There Will Be Blood,2007,Drama,158 min,Paul Thomas Anderson,8.2,91%
+The Pianist,2002,"Biography, Drama, Music",150 min,Roman Polanski,8.5,95%
+Heat,1995,"Action, Crime, Drama",170 min,Michael Mann,8.3,84%
+The Sixth Sense,1999,"Drama, Mystery, Thriller",107 min,M. Night Shyamalan,8.2,86%
+L.A. Confidential,1997,"Crime, Drama, Mystery",138 min,Curtis Hanson,8.2,99%
+Rashomon,1950,"Crime, Drama, Mystery",88 min,Akira Kurosawa,8.2,98%
+The Truman Show,1998,"Comedy, Drama",103 min,Peter Weir,8.2,94%
+Gone Girl,2014,"Drama, Mystery, Thriller",149 min,David Fincher,8.1,88%
+Shutter Island,2010,"Drama, Mystery, Thriller",138 min,Martin Scorsese,8.2,69%
+Kill Bill: Vol. 1,2003,"Action, Crime, Thriller",111 min,Quentin Tarantino,8.2,85%
+Fargo,1996,"Crime, Drama, Thriller",98 min,"Joel Coen, Ethan Coen",8.1,95%
+The Thing,1982,"Horror, Mystery, Sci-Fi",109 min,John Carpenter,8.2,85%
+The Handmaiden,2016,"Drama, Romance, Thriller",145 min,Park Chan-wook,8.1,96%
+On the Waterfront,1954,"Crime, Drama, Thriller",108 min,Elia Kazan,8.1,99%
+The Bridge on the River Kwai,1957,"Adventure, Drama, War",161 min,David Lean,8.1,96%
+Trainspotting,1996,"Crime, Drama",93 min,Danny Boyle,8.1,90%
+"Lock, Stock and Two Smoking Barrels",1998,"Comedy, Crime",107 min,Guy Ritchie,8.1,75%
+Casino,1995,"Crime, Drama",178 min,Martin Scorsese,8.2,79%
+The Secret in Their Eyes,2009,"Drama, Mystery, Romance",129 min,Juan José Campanella,8.2,89%
+The Gold Rush,1925,"Adventure, Comedy, Drama",95 min,Charles Chaplin,8.1,98%
+Children of Heaven,1997,"Drama, Family, Sport",89 min,Majid Majidi,8.2,83%
+My Neighbor Totoro,1988,"Animation, Adventure, Comedy",86 min,Hayao Miyazaki,8.1,94%
+Howl's Moving Castle,2004,"Animation, Adventure, Family",119 min,Hayao Miyazaki,8.2,88%
+The Incredibles,2004,"Animation, Action, Adventure",115 min,Brad Bird,8.0,
+"Monsters, Inc.",2001,"Animation, Adventure, Comedy",92 min,"Pete Docter, David Silverman, Lee Unkrich",8.1,96%
+Up,2009,"Animation, Adventure, Comedy",96 min,"Pete Docter, Bob Peterson",8.3,98%
+Finding Nemo,2003,"Animation, Adventure, Comedy",100 min,"Andrew Stanton, Lee Unkrich",8.2,99%
+The Iron Giant,1999,"Animation, Action, Adventure",86 min,Brad Bird,8.1,96%
+Beauty and the Beast,1991,"Animation, Family, Fantasy",84 min,"Gary Trousdale, Kirk Wise",8.0,95%
+Ratatouille,2007,"Animation, Adventure, Comedy",111 min,"Brad Bird, Jan Pinkava",8.1,96%
+Zootopia,2016,"Animation, Action, Adventure",108 min,"Byron Howard, Rich Moore, Jared Bush",8.0,98%
+The Princess Bride,1987,"Adventure, Comedy, Family",98 min,Rob Reiner,8.0,96%
+The Grand Budapest Hotel,2014,"Comedy, Drama",99 min,Wes Anderson,8.1,92%
+The Big Lebowski,1998,"Comedy, Crime",117 min,"Joel Coen, Ethan Coen",8.1,80%
+The Deer Hunter,1978,"Drama, War",183 min,Michael Cimino,8.1,86%
+The Terminator,1984,"Action, Adventure, Sci-Fi",107 min,James Cameron,8.1,100%
+The Exorcist,1973,Horror,122 min,William Friedkin,8.1,78%
+Rocky,1976,"Drama, Sport",120 min,John G. Avildsen,8.1,93%
+Batman Begins,2005,"Action, Crime, Drama",140 min,Christopher Nolan,8.2,85%
+V for Vendetta,2005,"Action, Drama, Sci-Fi",132 min,James McTeigue,8.1,73%
+Black Swan,2010,"Drama, Thriller",108 min,Darren Aronofsky,8.0,85%
+Prisoners,2013,"Crime, Drama, Mystery",153 min,Denis Villeneuve,8.2,81%
+Warrior,2011,"Action, Drama, Sport",140 min,Gavin O'Connor,8.1,84%
+The Imitation Game,2014,"Biography, Drama, Thriller",114 min,Morten Tyldum,8.0,90%
+Spotlight,2015,"Biography, Crime, Drama",129 min,Tom McCarthy,8.1,97%
+The Social Network,2010,"Biography, Drama",120 min,David Fincher,7.8,96%
+A Beautiful Mind,2001,"Biography, Drama, Mystery",135 min,Ron Howard,8.2,74%
+The Theory of Everything,2014,"Biography, Drama, Romance",123 min,James Marsh,7.7,81%
+Hacksaw Ridge,2016,"Biography, Drama, History",139 min,Mel Gibson,8.1,84%
+Mad Max: Fury Road,2015,"Action, Adventure, Sci-Fi",120 min,George Miller,8.1,97%
+Logan,2017,"Action, Drama, Sci-Fi",137 min,James Mangold,8.1,93%
+Dead Poets Society,1989,"Comedy, Drama",128 min,Peter Weir,8.1,85%
+Stand by Me,1986,"Adventure, Comedy, Drama",89 min,Rob Reiner,8.1,92%
+The Breakfast Club,1985,"Comedy, Drama",97 min,John Hughes,7.8,87%
+Her,2013,"Drama, Romance, Sci-Fi",126 min,Spike Jonze,8.0,95%
+La La Land,2016,"Comedy, Drama, Music",128 min,Damien Chazelle,8.0,91%
+The Revenant,2015,"Adventure, Drama, Western",156 min,Alejandro G. Iñárritu,8.0,78%
+Dangal,2016,"Action, Biography, Drama",161 min,Nitesh Tiwari,8.3,89%
+PK,2014,"Comedy, Drama, Musical",153 min,Rajkumar Hirani,8.1,80%
+Drishyam,2015,"Crime, Drama, Mystery",163 min,Nishikant Kamat,8.2,78%
+Barfi!,2012,"Comedy, Drama, Romance",151 min,Anurag Basu,8.1,80%
+Gully Boy,2019,"Drama, Music, Romance",154 min,Zoya Akhtar,7.9,96%
+Swades,2004,"Drama, Musical",189 min,Ashutosh Gowariker,8.2,88%
+Taare Zameen Par,2020–,"Game-Show, Music",N/A,N/A,7.0,
+Andhadhun,2018,"Crime, Mystery, Thriller",139 min,Sriram Raghavan,8.2,100%
+Super Deluxe,2019,"Comedy, Crime, Drama",176 min,Thiagarajan Kumararaja,8.2,83%
+Article 15,2019,"Crime, Drama, Mystery",130 min,Anubhav Sinha,8.1,90%
+The White Tiger,2021,"Crime, Drama",125 min,Ramin Bahrani,7.1,91%
+The Lunchbox,2013,"Drama, Romance",104 min,Ritesh Batra,7.8,97%
+Queen,2013,"Adventure, Comedy, Drama",146 min,Vikas Bahl,8.1,90%
+Masaan,2015,Drama,109 min,Neeraj Ghaywan,8.1,93%
+Lagaan: Once Upon a Time in India,2001,"Drama, Musical, Sport",224 min,Ashutosh Gowariker,8.1,95%
+Mughal-E-Azam,1960,"Drama, Romance, War",197 min,K. Asif,8.1,93%
+Sholay,1975,"Action, Adventure, Comedy",162 min,Ramesh Sippy,8.1,94%
+Pyaasa,2002,"Drama, Romance",137 min,"Anil Mattoo, A. Muthu",3.3,
+Guide,1965,"Drama, Romance",183 min,Vijay Anand,8.3,
+Mother India,1957,"Action, Comedy, Drama",172 min,Mehboob Khan,7.8,86%
+Chhoti Bahu,1971,"Drama, Family",137 min,K.B. Tilak,6.1,
+Black Friday,2004,"Action, Crime, Drama",143 min,Anurag Kashyap,8.4,90%
+Satya,1998,"Action, Crime, Drama",170 min,Ram Gopal Varma,8.3,
+Gangs of Wasseypur,2012,"Action, Comedy, Crime",321 min,Anurag Kashyap,8.2,94%
+Omkara,2006,"Action, Crime, Drama",155 min,Vishal Bhardwaj,8.0,
+Haider,2014,"Action, Crime, Drama",160 min,Vishal Bhardwaj,8.0,89%
+Kahaani,2012,"Mystery, Thriller",122 min,Sujoy Ghosh,8.1,100%
+Paan Singh Tomar,2012,"Action, Biography, Crime",135 min,Tigmanshu Dhulia,8.2,
+Nil Battey Sannata,2015,"Drama, Family",100 min,Ashwiny Iyer Tiwari,8.2,100%
+Pink,2016,"Crime, Drama, Thriller",136 min,Aniruddha Roy Chowdhury,8.0,100%
+Neerja,2016,"Biography, Drama, Thriller",122 min,Ram Madhvani,7.6,100%
+Talvar,2015,"Crime, Drama, Mystery",132 min,Meghna Gulzar,8.1,
+Badhaai Ho,2018,"Comedy, Drama",124 min,Amit Ravindernath Sharma,7.9,92%
+Article 370,2024,"Action, Drama, Thriller",158 min,Aditya Suhas Jambhale,7.8,83%
+A Wednesday,2008,"Action, Crime, Drama",104 min,"Neeraj Pandey, Ritesh Kumar",8.1,
+Chak De! India,2007,"Drama, Family, Sport",153 min,Shimit Amin,8.1,89%
+Munna Bhai M.B.B.S.,2003,"Comedy, Drama",156 min,Rajkumar Hirani,8.1,
+Lage Raho Munna Bhai,2006,"Comedy, Drama, Romance",144 min,Rajkumar Hirani,8.0,
+Hera Pheri,2000,"Action, Comedy, Crime",156 min,Priyadarshan,8.2,
+Andaz Apna Apna,1994,"Action, Comedy, Romance",160 min,Rajkumar Santoshi,8.0,
+Dil Chahta Hai,2001,"Comedy, Drama, Romance",183 min,Farhan Akhtar,8.1,100%
+Zindagi Na Milegi Dobara,2011,"Comedy, Drama, Musical",155 min,Zoya Akhtar,8.2,89%
+Kal Ho Naa Ho,2003,"Comedy, Drama, Musical",186 min,Nikkhil Advani,7.9,73%
+Kabhi Khushi Kabhie Gham...,2001,"Drama, Musical, Romance",210 min,Karan Johar,7.4,100%
+Chalte Chalte Yunhi Koi Mil Gaya Tha,2005,"Short, Musical",N/A,N/A,N/A,
+Krrish,2006,"Action, Sci-Fi",154 min,Rakesh Roshan,6.5,88%
+Krrish 3,2013,"Action, Adventure, Sci-Fi",152 min,Rakesh Roshan,5.3,71%
+Raees,2017,"Action, Crime, Drama",143 min,Rahul Dholakia,6.6,62%
+Don,2006,"Action, Crime, Thriller",171 min,Farhan Akhtar,7.2,
+Don 2,2011,"Action, Crime, Thriller",148 min,Farhan Akhtar,7.1,63%
+Kabir Singh,2019,"Action, Drama, Romance",173 min,Sandeep Reddy Vanga,7.0,23%
+Sanju,2018,"Biography, Comedy, Drama",155 min,Rajkumar Hirani,7.6,41%
+Uri: The Surgical Strike,2019,"Action, Drama, History",138 min,Aditya Dhar,8.2,57%
+Kesari,2019,"Action, Drama, History",150 min,Anurag Singh,7.4,35%
+Jab We Met,2007,"Comedy, Drama, Romance",138 min,Imtiaz Ali,7.9,100%
+3 Idiots,2009,"Comedy, Drama",170 min,Rajkumar Hirani,8.4,100%
