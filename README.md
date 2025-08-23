@@ -21,19 +21,19 @@ It also classifies movies into **Hit or Flop** based on IMDb rating.
 
 ---
 
-## Folder Structure (GitHub-ready)
+## Folder Structure 
 
 IMDb_Top250_Project/
 ├── README.md
-├── IMDb_Top250.csv # Dataset (manually created using OMDb API)
-├── IMDb_Top250_Predictor.ipynb # Notebook with EDA, models, visualizations
-├── images/ # Saved plots for README or reports
+├── IMDb_Top250.csv 
+├── IMDb_Top250_Predictor.ipynb
+├── images
 │ ├── genre_rating.png
 │ ├── year_trend.png
 │ ├── hit_flop_cm.png
 │ └── feature_importance.png
-├── RandomForest_Regression_Model.pkl # Saved regression model
-└── LogisticRegression_HitFlop_Model.pkl # Saved classification model
+├── RandomForest_Regression_Model.pkl 
+└── LogisticRegression_HitFlop_Model.pkl
 
 ---
 
