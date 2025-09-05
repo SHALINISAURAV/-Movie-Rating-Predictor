@@ -35,8 +35,6 @@ IMDb_Top250_Project/
 ├── RandomForest_Regression_Model.pkl 
 └── LogisticRegression_HitFlop_Model.pkl
 
----
-
 ## Steps Performed
 
 ### 1️⃣ Data Cleaning
@@ -99,7 +97,7 @@ IMDb_Top250_Project/
 ## How to Use
 1. Clone this repository:  
 ```
-git clone <your-repo-url>
+git clone <https://github.com/SHALINISAURAV/-Movie-Rating-Predictor>
 ```
 2. Install dependencies:  
 ```
@@ -110,7 +108,7 @@ pip install -r requirements.txt
 
 ---
 
-## Author / Dataset Credit
+## 👩‍💻Author / Dataset Credit✨
 - **Author:** Shalini Saurav  
 - Dataset manually created using **OMDb API** (personal API key).  
 - Significant effort: programmatically fetched data, cleaned, and compiled into CSV.  
